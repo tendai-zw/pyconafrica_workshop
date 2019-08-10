@@ -5,6 +5,6 @@ Maltego is a tool for interactive link analysis and data gathering. Like any lar
 
 The main aim of this workshop is to provide an introduction to Maltego and the process of coding Maltego transforms using Python. 
 
-Download it here ![Link](https://www.paterva.com/downloads.php)
+Download it here [Link](https://www.paterva.com/downloads.php)
 
-For Official Training and sales queries ![Contact Here](https://www.maltego.com/contact.html)
+For Official Training and sales queries [Contact Here](https://www.maltego.com/contact.html)
